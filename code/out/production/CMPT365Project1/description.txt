@@ -1,0 +1,14 @@
+1. Using the IntelliJ IDE
+   Install IntelliJ Community Edition : https://www.jetbrains.com/idea/download/
+   Also be sure you're using Java 15.0.2 under File -> Project Structure, you may need to download a new SDK in order to have it available!
+
+2. Using the IntelliJ IDE to open code file.
+
+3. Click Run -> Run 'Main'.
+
+4. Select a TIFF file from the images folder then the original colored image will be displayed in the dialog box.
+
+5. Click 'Next' to show the corresponding grayscale image of the original image.
+   Display order is grayscale image,dithered image,after dynamic range adjustment image.
+
+6. Click 'Quit' to exit the program.
